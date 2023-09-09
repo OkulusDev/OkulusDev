@@ -53,8 +53,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=OkulusDev)](https://github.com/username/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=OkulusDev&show_icons=true&count_private=true)  
-
 <!--
 **OkulusDev/OkulusDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
