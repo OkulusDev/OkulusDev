@@ -49,7 +49,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OkulusDev)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OkulusDev&theme=github_dark&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OkulusDev&theme=github_dark&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=OkulusDev)](https://github.com/username/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev)](https://github.com/anuraghazra/github-readme-stats)
