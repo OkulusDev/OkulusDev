@@ -26,7 +26,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Инструменты и языки :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -47,10 +47,10 @@
 
 ### :fire: Моя статистика :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=OkulusDev)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OkulusDev)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OkulusDev&theme=github_dark&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=OkulusDev)](https://github.com/username/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- <!-- -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OkulusDev&theme=github_dark&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OkulusDev)](https://github.com/username/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev)](https://github.com/anuraghazra/github-readme-stats)
+
