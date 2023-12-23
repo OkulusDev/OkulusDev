@@ -12,17 +12,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/OkulusDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/OkulusDev)  
-
 ---
 
 ## Обо мне 😄
 
-- 🔭 Сейчас я работаю над репозиторием Thunder и антивирусом Delta
-- 🌱 Сейчас я изучаю C/C++, GO, Rust
-- 📫 Электронная почта: x.okulus.dev@gmail.com
-- 🤔 Я сейчас ищу соучастников или пользователей моих программ
-- :zap: В мое свободное время я люблю развиваться
+- 🔭 Сейчас я работаю над над библиотекой для инженерных и научных вычислений Oxygen, а также другими проектами.
+- 🌱 Сейчас я изучаю C/C++, golang, и Linux
+- 📫 Электронная почта: bro.alexeev@inbox.ru
+- 🤔 Я хочу изучить Go и C++ под Linux
+- :zap: В мое свободное время я люблю писать статьи на хабр
 
 ---
 
@@ -47,10 +45,7 @@
 
 ### :fire: Моя статистика :
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=OkulusDev)](https://github.com/ryo-ma/github-profile-trophy) -->
-
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OkulusDev&theme=github_dark&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=OkulusDev)](https://github.com/username/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=OkulusDev)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OkulusDev&theme=github_dark&border_radius=5&locale=ru&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OkulusDev&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
